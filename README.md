@@ -1,5 +1,5 @@
 # djangoblog
-##djangogirls tutorial
+## djangogirls tutorial
 
 [English tutorial](http://tutorial.djangogirls.org/en/index.html)
 
